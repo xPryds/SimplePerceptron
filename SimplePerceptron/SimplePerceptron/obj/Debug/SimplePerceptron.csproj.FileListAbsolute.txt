@@ -1,0 +1,6 @@
+C:\Users\120219\Desktop\SimplePerceptron\SimplePerceptron\bin\Debug\SimplePerceptron.exe.config
+C:\Users\120219\Desktop\SimplePerceptron\SimplePerceptron\bin\Debug\SimplePerceptron.exe
+C:\Users\120219\Desktop\SimplePerceptron\SimplePerceptron\bin\Debug\SimplePerceptron.pdb
+C:\Users\120219\Desktop\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.csprojResolveAssemblyReference.cache
+C:\Users\120219\Desktop\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.exe
+C:\Users\120219\Desktop\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.pdb
